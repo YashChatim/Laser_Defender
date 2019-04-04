@@ -1,0 +1,2 @@
+C:\Users\Yash\Documents\Unity_Projects\Laser_Defender\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Yash\Documents\Unity_Projects\Laser_Defender\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
